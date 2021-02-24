@@ -1,0 +1,2 @@
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Debug\C++ Grade 9 project.exe
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Debug\C++ Grade 9 project.pdb

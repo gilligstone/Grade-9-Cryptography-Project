@@ -1,0 +1,12 @@
+﻿  Grade 9 project.cpp
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(194,52): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(259,6): warning C4101: 'a': unreferenced local variable
+C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Grade 9 project.cpp(274,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ Grade 9 project.vcxproj -> C:\Users\gilli\Documents\engineering\C++ Grade 9 project\Debug\C++ Grade 9 project.exe
